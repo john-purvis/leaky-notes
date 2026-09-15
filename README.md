@@ -1,5 +1,7 @@
 # Leaky Notes ⚠️
 
+**NOW FIXED...MISSION COMPLETE**
+
 A small notes API that **works but is insecure on purpose**. You will break it,
 prove the flaws to yourself, and then fix the same classes of flaw in your own
 Recipe Box API.
